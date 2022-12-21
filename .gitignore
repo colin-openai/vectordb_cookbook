@@ -1,3 +1,6 @@
 # Extra Files
 .ipynb_checkpoints
 .DS_Store
+
+# Virtual environment
+vectordb/
