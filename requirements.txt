@@ -1,0 +1,9 @@
+datasets==2.8.0
+numpy==1.24.0
+openai==0.25.0
+pandas==1.5.2
+pinecone==0.1.0
+tenacity==8.1.0
+tiktoken==0.1.1
+tqdm==4.64.1
+weaviate_client==3.9.0
